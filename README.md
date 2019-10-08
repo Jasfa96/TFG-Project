@@ -1,7 +1,7 @@
 # TFG-Project
 
-Resumen
+Resumen:  
 Mediante generación procedimental, nuestro objetivo es generar una gran variedad de personajes para nuestro videojuego. Para ello, se desarrollará un software diseñado para el motor de videojuegos Unity. Este software será un asset que cualquier usuario pueda introducir en su videojuego. El asset permitirá que incluso un usuario sin conocimientos previos de programación relacionados con la generación procedimental pueda generar multitud de personajes completamente distintos y ajustar su generación según desee. Para ello el usuario tan solo tendrá que usar la interfaz gráﬁca del asset, ajustando sus parámetros, y de Unity según donde quiere que funcione la generación procedimental. Para desarrollar el proyecto utilizaré el lenguaje de programación C#.
 
-Abstract
+Abstract:  
 Through procedural generation, our goal is to generate a wide variety of characters for our video game. To do this, software designed for the Unity video game engine will be developed. This software will be an asset that any user can insert in their video game. The asset will allow even a user without previous programming knowledge related to procedural generation to generate a multitude of completely diﬀerent characters and adjust their generation as desired. For this, the user will only have to use the graphical interface of the asset and Unity according to where he wants it to work. To develop the project I will use the programming language C#
